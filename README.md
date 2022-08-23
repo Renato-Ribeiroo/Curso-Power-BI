@@ -15,3 +15,8 @@ No deshboard apresentaremos de forma dinâmica os dados abaixo:
 ## ✔️ Tecnologia utilizada
 
 - ``Power BI``
+
+
+## ✔️ Projeto
+
+https://app.powerbi.com/view?r=eyJrIjoiMzhkMGVlZGEtODk4Ny00NzczLWI4YWMtNWE3Zjg2ZGZkNTc2IiwidCI6IjI3NjYyZGUyLTZhN2UtNGI4MC1iYzNlLWQ2MTI5NDk2Y2NkZCJ9
