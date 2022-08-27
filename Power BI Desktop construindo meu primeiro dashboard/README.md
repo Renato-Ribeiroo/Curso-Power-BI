@@ -10,7 +10,6 @@ No deshboard apresentaremos de forma dinâmica os dados abaixo:
 - Visualização de produtos disponíveis
 - Gênero que mais compra na loja
 - Média de pets dos clientes
-- Nova loja
 
 ## ✔️ Tecnologia utilizada
 
