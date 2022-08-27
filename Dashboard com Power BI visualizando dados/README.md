@@ -22,3 +22,5 @@ Neste curso aprendemos:
 
 
 ## ✔️ Projeto
+
+https://app.powerbi.com/view?r=eyJrIjoiZjg0YmMzNWItOTBmYS00MWNkLTg5NWItZDE4MjJmYmRiNDBlIiwidCI6IjI3NjYyZGUyLTZhN2UtNGI4MC1iYzNlLWQ2MTI5NDk2Y2NkZCJ9
